@@ -20,7 +20,7 @@ from telegram.ext import (
 # ──────────────────────────────────────────
 # SOZLAMALAR
 # ──────────────────────────────────────────
-BOT_TOKEN      = "8751522104:AAH4lf7X8wzsd9XVm7Xsv82IVvmGRhjj7B0"
+BOT_TOKEN      = "8955178544:AAEP6rrwgju-bbga_3M8guxJ_js1vjLdk50"
 ADMIN_ID       = 5492502957
 ADMIN_USERNAME = "@Javoh_1hacker"
 KARTA_RAQAMI   = "6262570040359129"
